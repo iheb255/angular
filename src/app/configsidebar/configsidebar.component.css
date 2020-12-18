@@ -1,0 +1,29 @@
+
+.card{
+
+  background-color: rgb(122, 122, 122);
+  margin-right: 20px;
+  width: 500px;
+  height: 400px;
+  min-height: 50px;
+  margin-top: 200px;
+float: left;
+border: 5px solid #0df605;
+
+
+}
+
+
+
+
+#ss{
+  margin-left: 400px;
+}
+#hhh{
+  background-color: rgb(17, 253, 96);
+  width: 100px;
+  height: 50px;
+  border: 5px solid #0df605;
+  margin: 0px 0%;
+  float: left;
+}

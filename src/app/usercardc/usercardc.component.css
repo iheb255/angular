@@ -1,0 +1,27 @@
+.card{
+
+  background-color: rgb(255, 255, 255);
+  margin-right: 20px;
+  width: 450px;
+  height: 400px;
+  min-height: 50px;
+  margin-top: 200px;
+float: right;
+border: 5px dashed rgb(10, 10, 10);
+
+
+}
+.ww{
+  width: 200px;
+  height: 200px;
+  margin: 25% 30%;
+}
+#hhh{
+  background-color: rgb(17, 253, 96);
+  width: 100px ;
+  height: 50px;
+  border: 5px solid #0df605;
+  margin: 0px 70%;
+  float: left;
+  vertical-align: 25%;
+}
